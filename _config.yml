@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: My Experience
+title: Welcome to Zero Point
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -41,7 +41,7 @@ social-network-links:
   email: "someone@example.com"
   facebook:
   github: zeropointcode
-  twitter:
+  instagram: zeropointcode
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
