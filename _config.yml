@@ -14,8 +14,8 @@ author: ZeroPointCode assigned for this task
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Learn Python: "https://automatetheboringstuff.com/2e/chapter1/"
   Author's home: "https://github.com/zeropointcode"
 
 # --- Logo --- #
