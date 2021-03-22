@@ -21,4 +21,4 @@ subtitle: Cycles of Life
 
   Heres an Xray of my poor toe
 
-  ![Toe](https://imgur.com/a/sek6NBg.jpg)
+  ![Toe](https://i.imgur.com/53jD8in.jpeg)
