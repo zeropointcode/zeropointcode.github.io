@@ -18,3 +18,7 @@ subtitle: Cycles of Life
   I want to learn how to code.
 
   Funny how this works. I totally forgot how to use GIT. Which means, we are starting from the beginning. All over again.
+
+  Heres an Xray of my poor toe
+
+  ![Toe](https://imgur.com/a/sek6NBg)
