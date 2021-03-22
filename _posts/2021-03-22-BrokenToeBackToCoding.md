@@ -9,7 +9,7 @@ subtitle: Cycles of Life
   In retrospect, I have mentally checked out from learning a new skill after hitting multiple learning road bumps.
 
   Fast forward almost a year. I become the strongest and most conditioned self physically. In preparation for an unsanctioned backyard fighting organization
-  called StreetBeefs, I suffer from an accident that results in a broken toe. My 3rd Toe on the right foot underwent what is known as green twin fracture. Solution to my problem? Surgery, requiring an insertion of a metal pin to realign my displacement.
+  called StreetBeefs, I suffer from an accident that results in a broken toe. My 3rd Toe on the right foot underwent what is known as green twig fracture. Solution to my problem? Surgery, requiring an insertion of a metal pin to realign my displacement.
 
   This injury, one of many that I encountered on my martial arts journey made me realize a few things. First: In this industry, you make a living with your body, when the body is injured beyond function, you cease the ability to work. Second: Almost all of the top athletes in the sport hold 2nd jobs, sometimes full time. 3rd: I could of had a mental outlet/skill to fight of my boredom if I knew, how to code.
 
@@ -17,4 +17,4 @@ subtitle: Cycles of Life
 
   I want to learn how to code.
 
-  Funny how this works. I totally forgot how to use GIT. Which means, we are starting from the beginning. All over again. 
+  Funny how this works. I totally forgot how to use GIT. Which means, we are starting from the beginning. All over again.
